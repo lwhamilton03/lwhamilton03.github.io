@@ -1,0 +1,60 @@
+
+html{
+    background-color: #1B253E; 
+    background-image: url("./sunset.jpeg" );
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+body{
+    text-align: left;
+}
+
+h1{
+    color: #3B527E; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px; 
+}
+
+h2{
+    color: #3B527E; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px; 
+}
+
+#Introduction{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 20px;
+    text-align: left; 
+}
+
+#myName{
+    color: #3B527E; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px; 
+    text-align: left; 
+}
+
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+
+#navigation{
+    position:fixed;
+    left: 150px; 
+}
+
+.bar{
+    float: left;
+    width: 40%; 
+    background-color: whitesmoke; 
+    border-block-end-style: solid;
+    border: width 30PX;
+    outline: #3B527E; 
+    outline-style: solid; 
+    outline-color: #3B527E;
+    outline-width: 30px; 
+    outline-offset: initial; 
+}
