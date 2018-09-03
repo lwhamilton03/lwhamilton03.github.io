@@ -13,19 +13,44 @@ h2{
 .topBar{
     background-color: pink; 
     text-align: right; 
+    font-size: 18px; 
 }
 
 .dropDown{
     text-align: left;
+    font-family: sans-serif;
+
 }
 
 .boxMain{
     display: inline-block; 
     width: 24%; 
+    text-align: center; 
 }
 
+p{
+    font-family: serif;
+    font-size: 22px;
+}
+
+h2{
+    font: bolder; 
+    font-size: 40px; 
+}
 #myname{
     text-align: center; 
     font-family: serif;
     font-size: 80px;
+}
+
+a:link{
+    text-decoration: none;
+    padding: 8px; 
+    color: black;
+}
+
+#rectangle{
+    padding: 18px; 
+    background-color: pink;
+    width: 100%; 
 }
