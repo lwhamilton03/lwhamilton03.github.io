@@ -41,6 +41,7 @@ h2{
     text-align: center; 
     font-family: serif;
     font-size: 80px;
+    
 }
 
 a:link{
@@ -49,7 +50,7 @@ a:link{
     color: black;
 }
 
-#rectangle{
+.rectangle{
     padding: 18px; 
     background-color: pink;
     width: 100%; 

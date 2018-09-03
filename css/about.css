@@ -1,0 +1,46 @@
+html{background-color: whitesmoke;}
+
+h1{text-align: center; 
+    font-family: serif;
+    font-size: 80px;
+padding: none;
+margin: 8px;}
+
+body{background-color: white;
+    
+}
+
+h2{text-align: center;
+font-family: serif;
+font-size: 28px;
+font-weight: bold;
+margin: 6px;}
+
+
+
+p{font-family: serif; 
+font-size: 22px;}
+
+#bigImage{display: block; width: 75%; margin-left: auto; margin-right: auto;
+}
+
+.rectangle{
+    padding: 18px; 
+    background-color: pink;
+    width: 100%; 
+}
+
+.boxMain{
+    text-align: center; 
+    position: center; 
+    display: block;}
+
+p{
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 12%;  
+}
+h4{
+    font-size: 22px; 
+    text-align: left; 
+}
