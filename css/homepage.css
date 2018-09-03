@@ -1,0 +1,31 @@
+html{
+    background-color: whitesmoke;
+}
+
+body{
+    background-color: white; 
+}
+
+h2{
+    text-align: center; 
+}
+
+.topBar{
+    background-color: pink; 
+    text-align: right; 
+}
+
+.dropDown{
+    text-align: left;
+}
+
+.boxMain{
+    display: inline-block; 
+    width: 24%; 
+}
+
+#myname{
+    text-align: center; 
+    font-family: serif;
+    font-size: 80px;
+}
