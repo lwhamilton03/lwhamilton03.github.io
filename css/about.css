@@ -40,7 +40,27 @@ p{
     margin-left: 12%;
     margin-right: 12%;  
 }
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: black; 
+    text-align: center; 
+}
+
 h4{
     font-size: 22px; 
     text-align: left; 
+}
+
+a:link{
+    color: black; 
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+.educationBox{
+    display: inline-block;
+    width:31%; 
 }
